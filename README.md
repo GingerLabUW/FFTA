@@ -15,6 +15,8 @@ Department of Chemistry
 Seattle, Washington, USA
 E-mail: rgiri@uw.edu
 ```
+*We thank the Department of Energy under award DE-SC0013957 for supporting this work.*
+
 
 ### Overview
 FFTA extracts Instantaneous frequency from  Time-Resolved AFM data, such as Fast Free Time-Resolved Electrostatic Force Microscopy (FF-trEFM) data[1-4]. This package also returns time-to-first frequency peak (tFP) and phase from atomic force microscopy. The use case is if your experiment records AFM deflection data and you wish to reconstruct the instantaneous frequency vs time.
