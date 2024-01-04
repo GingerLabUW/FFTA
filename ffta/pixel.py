@@ -50,7 +50,7 @@ class Pixel:
         b) Wavelet Transform
         c) Short-Time Fourier Transform (STFT)
         d) Non-stationary Fourier mode decomposition (NFMD)
-            
+        
         Attributes
         ----------
         n_points : int
@@ -94,6 +94,10 @@ class Pixel:
            \[2\] Karatay D, Harrison JA, et al. Fast time-resolved electrostatic
            force microscopy: Achieving sub-cycle time resolution. Rev Sci Inst.
            2016;87(5):053702
+
+        Acknowledgments
+        ---------------
+        We thank the Department of Energy under award DE-SC0013957 for supporting this work.
 
         Examples
         --------
