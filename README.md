@@ -15,7 +15,7 @@ Department of Chemistry
 Seattle, Washington, USA
 E-mail: rgiri@uw.edu
 ```
-*We thank the Department of Energy under award DE-SC0013957 for supporting this work.*
+### Acknowledgments: *We thank the Department of Energy under award DE-SC0013957 for supporting this work.*
 
 
 ### Overview
